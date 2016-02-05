@@ -13,3 +13,4 @@
 * k - up
 * V - select the line
 * v - enter visual mode
+* y - yank
