@@ -17,7 +17,6 @@
 * y - yank (copy)
 * d - delete (delete the line)
 * P - paste
-* 
 
 
 * Control + command + F = full screen
@@ -27,10 +26,9 @@
 * :bp - edit the previous buffer in the buffer list
 * control ^ - go back
 * PluginInstall
-* 
 
 Browsing with Vinegar/Nerd tree
 ========
 * "-" to go up or double dash to go up 2
-*  NERDTreeToggle
+*  NERDTreeToggle to toggle sidebar file tree
 
