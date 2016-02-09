@@ -13,4 +13,10 @@
 * k - up
 * V - select the line
 * v - enter visual mode
-* y - yank
+* y - yank (copy)
+* d - delete (delete the line)
+* P - paste
+* 
+
+
+Control + command + F = full screen
