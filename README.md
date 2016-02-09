@@ -1,5 +1,6 @@
 # vim
 
+* ,ev to open .vimrc file
 * /searchTerm - finds searchTerm
 * n for next occurence of the term
 * zz to bring the current line to the middle of the screen
@@ -19,4 +20,7 @@
 * 
 
 
-Control + command + F = full screen
+* Control + command + F = full screen
+* :sp = horizontal split
+* :vsp = vertical split
+* :q to close a split
