@@ -30,5 +30,5 @@
 Browsing with Vinegar/Nerd tree
 ========
 * "-" to go up or double dash to go up 2
-*  NERDTreeToggle to toggle sidebar file tree
+*  NERDTreeToggle to toggle sidebar file tree or command 1 for shortcut
 
