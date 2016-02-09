@@ -24,3 +24,13 @@
 * :sp = horizontal split
 * :vsp = vertical split
 * :q to close a split
+* :bp - edit the previous buffer in the buffer list
+* control ^ - go back
+* PluginInstall
+* 
+
+Browsing with Vinegar/Nerd tree
+========
+* "-" to go up or double dash to go up 2
+*  NERDTreeToggle
+
