@@ -1,5 +1,7 @@
 # vim
 
+General
+=====
 * ,ev to open .vimrc file
 * /searchTerm - finds searchTerm
 * n for next occurence of the term
@@ -17,18 +19,20 @@
 * y - yank (copy)
 * d - delete (delete the line)
 * P - paste
-
-
 * Control + command + F = full screen
 * :sp = horizontal split
 * :vsp = vertical split
-* :q to close a split
-* :bp - edit the previous buffer in the buffer list
-* control ^ - go back
 * PluginInstall
 
 Browsing with Vinegar/Nerd tree
 ========
 * "-" to go up or double dash to go up 2
-*  NERDTreeToggle to toggle sidebar file tree or command 1 for shortcut
+*  command 1 to toggle sidebar file tree
 
+Navigating and Searching
+========
+* command p
+* command e for the most recent updated files
+* * :q to close a split
+* :bp - edit the previous buffer in the buffer list
+* control ^ - go back
